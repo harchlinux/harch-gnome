@@ -61,6 +61,14 @@
 <br/>
 
 
+### What is Gnome Desktop?
+
+GNOME is a user-friendly and modern desktop environment that provides a seamless and intuitive user experience. It is designed with simplicity, accessibility, and customization in mind. GNOME offers a wide range of features and applications, including a file manager, a web browser, a text editor, and a variety of productivity tools.
+
+
+![screenshot](./image/screenshot.png)
+
+
 
 
 
