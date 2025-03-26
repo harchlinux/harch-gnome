@@ -35,8 +35,8 @@
 
 <p align="center">
 
- <a href="https://t.me/eobrd" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="eobrd" />
+ <a href="https://t.me/harchlinx" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="harchlinux" />
  </a>
  <a href="https://instagram.com/miladalizadw" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="miladalizadw" />
@@ -49,10 +49,10 @@
 <p>
  <img align="right" width="400" src="/assets/hydra-linux.png"  />
   
- * &emsp; Beautiful and safe<br/><br/>
- * &emsp; Has more than 150 penetration testing tools<br/><br/>
- * &emsp; Professional design with hacker style based on xfce <br/><br/>
- * &emsp; It has special features that will be added soon <br/><br/>
+ * &emsp; Beautiful and safe <br/><br/>
+ * &emsp; fast and stable <br/><br/>
+ * &emsp; Professional design with hacker style based on arch <br/><br/>
+ * &emsp; It has special features for gamer user's <br/><br/>
 
 </p>
 
