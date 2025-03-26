@@ -69,6 +69,19 @@ GNOME is a user-friendly and modern desktop environment that provides a seamless
 ![screenshot](./assets/screenshot.png)
 
 
+### Pre-Installed Applications
+
+| Name         | Usage     | Category |
+|--------------|-----------|------------|
+| Tuba         | Official desktop version of Telegram messaging app      |
+| Fractal      | A client to Browse the [Matrix].  |
+| PipeLine | A client to watch peertube and piped youtube |
+| Celluloid | A MPV front-end written in GTK | Movie & Music |
+| G4Music | A Simple and easy to use Music Player written in vala and GTK |
+| Firefox | Fast, Private & Safe Web Browser |
+| Folio | Take notes in Markdown |
+
+
 
 
 
