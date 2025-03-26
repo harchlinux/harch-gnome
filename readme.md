@@ -47,7 +47,7 @@
  # About Harch Linux
  
 <p>
- <img align="right" width="400" src="/assets/harch-linux"  />
+ <img align="right" width="400" src="/assets/harch-linux.png"  />
   
  * &emsp; Beautiful and safe <br/><br/>
  * &emsp; fast and stable <br/><br/>
