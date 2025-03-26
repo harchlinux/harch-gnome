@@ -71,17 +71,23 @@ GNOME is a user-friendly and modern desktop environment that provides a seamless
 
 ### Pre-Installed Applications
 
-| Name         | Usage     | Category |
-|--------------|-----------|------------|
-| Tuba         | Official desktop version of Telegram messaging app      |
-| Fractal      | A client to Browse the [Matrix].  |
-| PipeLine | A client to watch peertube and piped youtube |
-| Celluloid | A MPV front-end written in GTK | Movie & Music |
-| G4Music | A Simple and easy to use Music Player written in vala and GTK |
-| Firefox | Fast, Private & Safe Web Browser |
-| Folio | Take notes in Markdown |
-
-
+| Name                      | Usage                                             | Category        |
+|---------------------------|---------------------------------------------------|----------------|
+| telegram-desktop         | A desktop client for Telegram messaging.         | Social        |
+| firefox                 | Fast, Private & Safe Web Browser.                 | Web Browser   |
+| ark                     | A file archiver and extractor.                    | Utility       |
+| mousepad                | A simple and fast text editor.                    | Productivity  |
+| code                    | A lightweight code editor (VS Code).              | Development   |
+| chromium                | Open-source web browser.                          | Web Browser   |
+| vlc                     | A powerful multimedia player.                     | Movie & Music |
+| obs-studio              | Open-source software for video recording & streaming. | Media        |
+| g4music                 | A simple and easy-to-use music player.            | Movie & Music |
+| github-desktop-bin      | GitHub's official desktop client.                  | Development   |
+| wine                    | A compatibility layer to run Windows applications. | Utility       |
+| heroic-games-launcher-bin | A game launcher for Epic Games & GOG.            | Gaming        |
+| proton-ge-custom-bin    | A custom Proton build for better game compatibility. | Gaming        |
+| edex-ui-bin             | A futuristic terminal emulator.                   | Utility       |
+| r-quick-share-bin       | A fast file-sharing tool.                         | Utility       |
 
 
 
