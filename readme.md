@@ -18,7 +18,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">HYdra Linux's Developer</a></b>
+                <b><a target="_blank" href="https://alsiam.com">Harch Linux's Developer</a></b>
         </samp>
 </h3>
 
@@ -44,7 +44,7 @@
 </p>
 
 <!-- About Section -->
- # About Hydra Linux
+ # About Harch Linux
  
 <p>
  <img align="right" width="400" src="/assets/hydra-linux.png"  />
